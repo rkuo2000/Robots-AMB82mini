@@ -10,11 +10,13 @@
 #### [https://github.com/ideashatch/HUB-8735](https://github.com/ideashatch/HUB-8735)
 
 <p><img width="25%" height="25%" src="https://robotkingdom.com.tw/wp-content/uploads/2024/09/HUB_8735_Ultra-4-510x680.jpg"></p>
+
 [![](https://markdown-videos-api.jorgenkh.no/youtube/-_NMUnY0kK4)](https://youtu.be/-_NMUnY0kK4)
 
 ---
 ### [AMB82-mini](https://www.icshop.com.tw/products/368030501864)
 #### [Ameba Arduino](https://www.amebaiot.com/en/ameba-arduino-summary/)
+
 <p><img width="50%" height="50%" src="https://github.com/rkuo2000/EdgeAI-AMB82-mini/blob/main/assets/AMB82-mini.png?raw=true"></p>
 
 
