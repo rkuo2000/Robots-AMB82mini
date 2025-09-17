@@ -13,14 +13,14 @@ MQTT is an OASIS standard messaging protocol for the Internet of Things (IoT)<br
 ```
 import paho.mqtt.publish as publish
 host = "test.mosquitto.org"
-publish.single("ntou/edgeai/robot1", "go to the kitchen", hostname=host)
+publish.single("TCFST/Robot1", "go to the kitchen", hostname=host)
 ```
 
 **subsribe messages from AMB82-mini** <br>
 ```
 import paho.mqtt.subscribe as subscribe
-host = "test.mosquitto.org"https://github.com/rkuo2000/EdgeAI-AMB82mini
-msg = subscribe.simple("ntou/edgeai/robot1", hostname=host)
+host = "test.mosquitto.org"
+msg = subscribe.simple("TCFST/Robot1", hostname=host)
 print("%s %s" % (msg.topic, msg.payload.decode("utf-8")))
 ```
 
@@ -30,6 +30,4 @@ print("%s %s" % (msg.topic, msg.payload.decode("utf-8")))
 
 **Prompt:** `make an html to input MQTT topic and text to publish through Paho-MQTT test.mosquitto.org`<br>
 
-**[Paho-MQTT Publisher](https://g.co/gemini/share/ae62311518bd)** <br>
-![](https://github.com/rkuo2000/EdgeAI-AMB82mini/blob/main/assets/Gemini_Canvas_Paho-MQTT_Text_Publisher.png?raw=true)
-
+**[Paho-MQTT Publisher]()
