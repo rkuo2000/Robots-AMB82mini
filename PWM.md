@@ -1,7 +1,9 @@
 ## Motor Control
 
-### PWM
-[PWM - Servo Control](https://www.amebaiot.com/en/amebapro2-arduino-pwm-servo/) <br>
+### [PWM](https://docs.arduino.cc/learn/microcontrollers/analog-output/)
+![](https://docs.arduino.cc/54ef6da144b4531dd9ada686a7e67c56/pwm.gif)
+
+![](https://microcontrollerslab.com/wp-content/uploads/2019/04/Servo-motor-pinout-esp32.png)
 
 **Examples> AmebaAnalog > PWM_ServoControl** <br>
 ```
@@ -11,7 +13,6 @@ myservo.attach(8);
 ```
 myservo.write(pos);
 ```
-![](https://github.com/rkuo2000/EdgeAI-AMB82mini/blob/main/assets/Gripper.jpg?raw=true)
 
 ---
 ### H-bridge Motor Driver IC(全橋式馬達驅動IC)
@@ -24,3 +25,8 @@ myservo.write(pos);
 ![](https://www.jsumo.com/drv8833-stepper-motor-driver-board-2-channel-4094-14-B.jpg)
 ![](https://jin-hua.com.tw/upload/images/2430000015663-902.jpg)
 
+---
+### Gripper
+![](https://github.com/rkuo2000/EdgeAI-AMB82mini/blob/main/assets/Gripper.jpg?raw=true)
+
+**Example**: [PWM - Servo Control](https://www.amebaiot.com/en/amebapro2-arduino-pwm-servo/) <br>
