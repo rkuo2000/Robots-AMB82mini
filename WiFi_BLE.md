@@ -45,7 +45,8 @@ const int ledPin = `LED_BUILTIN`;    // the number of the LED pin<br>
 
 [BLE V7RC](https://www.amebaiot.com/zh/amebad-arduino-ble-v7rc/)<br>
 
-ParseCMDString(String cmd) is a customized function will take a string “cmd” as input and process it. Currently, there are 6 available commands from V7RC App, which are: “SS2”,”SS4”,”SRT”,”SR2”, and “SRV”.<br>
+* V7RC 用 BLE 傳輸時，需要設備廣播通用的 UART SERVICE UUID，連接後會直接在 RX Characteristic 採用 write without response(write command) 的方式持續送資料
+* ParseCMDString(String cmd) is a customized function will take a string “cmd” as input and process it. Currently, there are 6 available commands from V7RC App, which are: “SS2”,”SS4”,”SRT”,”SR2”, and “SRV”.
 
 * [V7RC APP 介紹](https://hackmd.io/@accomdemy/v7rc)<br>
 * 安裝[手機App V7RC](https://play.google.com/store/apps/details?id=com.v7idea.v7rcliteandroidsdkversion&hl=en)<br>
