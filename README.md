@@ -21,7 +21,7 @@ Pass: 035623116
 
 ### [MQTT](https://github.com/rkuo2000/Robots/blob/main/MQTT.md)
 
-## 4. Motor Control
+## 4. [Motor Control](https://github.com/rkuo2000/Robots/blob/main/PWM.md)
 
 ## 5. Naviation
 ### [IMU](https://github.com/rkuo2000/Robots/blob/main/IMU.md)
