@@ -34,6 +34,6 @@ print("%s %s" % (msg.topic, msg.payload.decode("utf-8")))
 
 **Prompt:** `make an html to input MQTT topic and text to publish through Paho-MQTT test.mosquitto.org`<br>
 
-**[Paho-MQTT Publisher](https://github.com/rkuo2000/Robots/blob/main/MQTT_publisher.html)
-![](https://github.com/rkuo2000/Robots/blob/main/assets/Paho-MQTT_Publisher.png?raw=true)**
+**[Paho-MQTT Publisher](https://github.com/rkuo2000/Robots/blob/main/MQTT_publisher.html)** <br>
+![](https://github.com/rkuo2000/Robots/blob/main/assets/Paho-MQTT_Publisher.png?raw=true)
 
