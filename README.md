@@ -8,13 +8,13 @@
 ---
 ### [HUB 8735 Ultra](https://robotkingdom.com.tw/product/hub-8735-ultra/)
 #### [https://github.com/ideashatch/HUB-8735](https://github.com/ideashatch/HUB-8735)
-![](https://robotkingdom.com.tw/wp-content/uploads/2024/09/HUB_8735_Ultra-4-510x680.jpg)
+<p><img width="50%" height="50%" src="https://robotkingdom.com.tw/wp-content/uploads/2024/09/HUB_8735_Ultra-4-510x680.jpg"></p>
+
 [![](https://markdown-videos-api.jorgenkh.no/youtube/-_NMUnY0kK4)](https://youtu.be/-_NMUnY0kK4)
 
 ---
 ### [AMB82-mini](https://www.icshop.com.tw/products/368030501864)
 #### [Ameba Arduino](https://www.amebaiot.com/en/ameba-arduino-summary/)
-![](https://github.com/rkuo2000/EdgeAI-AMB82-mini/blob/main/assets/AMB82-mini.png?raw=true)
-![](https://github.com/rkuo2000/EdgeAI-AMB82-mini/blob/main/assets/AMB82-mini_kit.png?raw=true)
-<p><img src="https://github.com/rkuo2000/EdgeAI-MCU/blob/main/assets/AMB82-MINI_pinout.png?raw=true"></p>
+<p><img width="50%" height="50%" src="https://github.com/rkuo2000/EdgeAI-AMB82-mini/blob/main/assets/AMB82-mini.png?raw=true"></p>
+
 
