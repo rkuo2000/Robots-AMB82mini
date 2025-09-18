@@ -35,8 +35,8 @@ Pass: 035623116
 #### [Examples > AmebaNN > Ojbect Detection Loop](https://ameba-doc-arduino-sdk.readthedocs-hosted.com/en/latest/ameba_pro2/amb82-mini/Example_Guides/Neural%20Network/Object%20Detection.html)
 
 ### Generative AI
-#### Examples > AmebaNN > MultimediaAI > [Generative AI Vision](https://ameba-doc-arduino-sdk.readthedocs-hosted.com/en/latest/ameba_pro2/amb82-mini/Example_Guides/Neural%20Network/Multimedia%20AI/Generative%20AI%20Vision.html
-)
+
+#### Examples > AmebaNN > MultimediaAI > [Generative AI Vision](https://ameba-doc-arduino-sdk.readthedocs-hosted.com/en/latest/ameba_pro2/amb82-mini/Example_Guides/Neural%20Network/Multimedia%20AI/Generative%20AI%20Vision.html)
 
 ---
 ## 7. Mic & Audio
