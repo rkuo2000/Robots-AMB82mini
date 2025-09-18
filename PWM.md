@@ -29,7 +29,8 @@ myservo.write(pos);
 
 ---
 ### Gripper
-![](https://github.com/rkuo2000/EdgeAI-AMB82mini/blob/main/assets/Gripper.jpg?raw=true)
+
+<p><img width="50%" height="50%" src="https://github.com/rkuo2000/EdgeAI-AMB82mini/blob/main/assets/Gripper.jpg?raw=true"></p>
 
 <p><img width="50%" height="50%" src="https://microcontrollerslab.com/wp-content/uploads/2021/03/MG995-Servo-Motor-pinout-diagram.jpg"></p>
 
