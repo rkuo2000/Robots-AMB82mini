@@ -3,8 +3,6 @@
 ### [PWM](https://docs.arduino.cc/learn/microcontrollers/analog-output/)
 ![](https://docs.arduino.cc/54ef6da144b4531dd9ada686a7e67c56/pwm.gif)
 
-![](https://microcontrollerslab.com/wp-content/uploads/2019/04/Servo-motor-pinout-esp32.png)
-
 **Examples> AmebaAnalog > PWM_ServoControl** <br>
 ```
 myservo.attach(8);
@@ -32,5 +30,7 @@ myservo.write(pos);
 ---
 ### Gripper
 ![](https://github.com/rkuo2000/EdgeAI-AMB82mini/blob/main/assets/Gripper.jpg?raw=true)
+
+![](https://microcontrollerslab.com/wp-content/uploads/2019/04/Servo-motor-pinout-esp32.png)
 
 #### Examples> AmebaAnalog > [PWM_ServoControl](https://www.amebaiot.com/en/amebapro2-arduino-pwm-servo/)
