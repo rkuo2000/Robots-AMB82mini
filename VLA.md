@@ -4,8 +4,8 @@
 **Arxiv**: [Vision-Language-Action Models: Concepts, Progress, Applications and Challenges](https://arxiv.org/html/2505.04769v1)<br>
 <p><img width="50%" height="50%" src="https://arxiv.org/html/2505.04769v1/x1.png"></p>
 
-![](https://arxiv.org/html/2505.04769v1/x3.png)
-![](https://arxiv.org/html/2505.04769v1/x4.png)
+<p><img width="50%" height="50%" src="https://arxiv.org/html/2505.04769v1/x3.png"></p>
+<p><img width="50%" height="50%" src="https://arxiv.org/html/2505.04769v1/x4.png"></p>
 
 ---
 ### [OpenVLA](https://github.com/openvla/openvla)
