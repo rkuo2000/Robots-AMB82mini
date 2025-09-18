@@ -31,12 +31,11 @@ Pass: 035623116
 ---
 ## 6. Vision
 
-### [Object Detection](https://ameba-doc-arduino-sdk.readthedocs-hosted.com/en/latest/ameba_pro2/amb82-mini/Example_Guides/Neural%20Network/Object%20Detection.html)
-#### [Examples > AmebaNN > Ojbect Detection Loop](https://ameba-doc-arduino-sdk.readthedocs-hosted.com/en/latest/ameba_pro2/amb82-mini/Example_Guides/Neural%20Network/Object%20Detection.html)
+### Object Detection
+#### Examples > AmebaNN > [Ojbect Detection Loop](https://ameba-doc-arduino-sdk.readthedocs-hosted.com/en/latest/ameba_pro2/amb82-mini/Example_Guides/Neural%20Network/Object%20Detection.html)
 
-### Generative AI
-
-#### Examples > AmebaNN > MultimediaAI > [Generative AI Vision](https://ameba-doc-arduino-sdk.readthedocs-hosted.com/en/latest/ameba_pro2/amb82-mini/Example_Guides/Neural%20Network/Multimedia%20AI/Generative%20AI%20Vision.html)
+### Generative AI Vision
+#### Examples > AmebaNN > MultimediaAI > [Generative AI Vision]()
 
 ---
 ## 7. Mic & Audio
