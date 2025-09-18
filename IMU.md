@@ -100,45 +100,22 @@ No-motion observed noise was +- 0.015 rad/s (±0.86 deg/sec) at 1.1KHz. Check th
 ![](https://github.com/rkuo2000/MCU-course/blob/main/images/BNO080.png?raw=true)
 
 ---
-## Arduino Library: MPU6050
-![](https://github.com/rkuo2000/MCU-course/blob/main/images/Arduino_Library_MPU6050.png?raw=true)
-![](https://github.com/rkuo2000/MCU-course/blob/main/images/Example_ESP32_MPU6050.jpg?raw=true)
+### Arduino Library: MPU6050
 
-* Download [Processing](https://processing.org/download) & Install
+#### Download [Processing](https://processing.org/download) & Install
   - Tools> add Tool> Library> Toxi
 
----  
-### Sketchbook> IMU> MPU6050_DMP6_plane
-* #define OUTPUT_TEAPOT
-![](https://github.com/rkuo2000/MCU-course/blob/main/images/Examples_MPU6050_DMP6_using_DMP_V6v12.png?raw=true)
-* click ./MPUplane/MPUPlane.pde
-* modify port name: `String portName = "COM3";`
-* press Run
-![](https://github.com/rkuo2000/MCU-course/blob/main/images/Examples_MPU6050_DMP6_using_DMP_V6v12_pde.png?raw=true)
-
 ---
-### Sketchbook> IMU> MPU6050_DMP_Teapot
+#### Sketchbook> IMU> MPU6050_DMP_Teapot
 ![](https://github.com/rkuo2000/MCU-course/blob/main/images/Sketch_MPU6050_DMP_Teapot.png?raw=true)
 * click ./MPU6050Teapot/MPU6050Teapot.pde
 * modify port name: `String portName = "COM3";`
 * press Run
 
+#### Examples > AmebaWire > MPU6050 > MPU6050_DMP6_using_DMP_V6v12
+
 ---
-### Sketchbook> IMU>MPU6050_KalmanFilter
-[MPU6050_KalmanFilter.ino](https://github.com/rkuo2000/arduino/blob/master/examples/IMU/MPU6050_KalmanFilter/MPU6050_KalmanFilter.ino)<br>
-
-* **Initialize IMU & get Acceleration**
-```
-imu.initialize();
-delay(100);
-imu.getAcceleration(&accX, &accY, &accZ);
-```
-
-* **atan2**
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Atan2definition.svg/220px-Atan2definition.svg.png)
-![](https://github.com/rkuo2000/MCU-course/blob/main/images/atan2.png?raw=true)
-
-* **Complementary Filter**
+### Complementary Filter
 ![](https://www.mouser.tw/images/microsites/sensor_stmicro_fig2.jpg)
 
 ```
@@ -152,7 +129,8 @@ compAngleY = 0.97 * (compAngleY + gyroYrate * dt) + 0.03 * accYangle
 ```
 ![](http://www.pieter-jan.com/images/Complementary_Filter.png)
 
-* **Kalman Filter**<br>
+---
+### Kalman Filter
 [Kalman.cpp](https://github.com/rkuo2000/arduino/blob/master/examples/IMU/MPU6050_KalmanFilter/Kalman.cpp)
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Kalman-filter_en.svg/800px-Kalman-filter_en.svg.png?20160621130330)
 
@@ -208,24 +186,20 @@ float Kalman::getAngle(float newAngle, float newRate, float dt) {
 ```
 
 ---
-## Arduino Library: MPU9250
-![](https://github.com/rkuo2000/MCU-course/blob/main/images/Arduino_Library_MPU9250.png?raw=true)
-
-### Sketchbook>MPU9250_DMP_Teapot
-![](https://github.com/rkuo2000/MCU-course/blob/main/images/Example_ESP32_MPU9250.jpg?raw=true)
-![](https://github.com/rkuo2000/MCU-course/blob/main/images/Sketch_MPU9250_DMP_Teapot.png?raw=true)
-* click MPU9250Teapot/MPU9250Teapot.pde
-![](https://github.com/rkuo2000/MCU-course/blob/main/images/Sketch_MPU9250_DMP_Teapot_Processing4.0b7.png?raw=true)
+### [MPU6050_KalmanFilter.ino](https://github.com/rkuo2000/arduino/blob/master/examples/IMU/MPU6050_KalmanFilter/MPU6050_KalmanFilter.ino)<br>
 
 ---
-### Sketchbook>MPU9250_BasicAHRS2
+## MPU9250
+### [Sketchbook>MPU9250_DMP_Teapot](https://github.com/rkuo2000/Arduino/tree/master/examples/IMU/MPU9250_DMP_Teapot)
+* click MPU9250Teapot/MPU9250Teapot.pde
+
+---
+### [MPU9250_BasicAHRS2](https://github.com/rkuo2000/Arduino/tree/master/examples/IMU/MPU9250_BasicAHRS2)
 [x-io Technologies publications](https://x-io.co.uk/publications/)
 
 ---
-### Sketchbook> Robot> Esp32Copter
-[Esp32Copter](https://github.com/rkuo2000/arduino/blob/master/examples/Robot/Esp32Copter/README.md) 
-![](https://github.com/rkuo2000/arduino/blob/master/examples/Robot/Esp32Copter/DSC02360.jpg?raw=true)
-![](https://github.com/rkuo2000/arduino/blob/master/examples/Robot/Esp32Copter/DSC02364.jpg?raw=true)
+### [Esp32Copter](https://github.com/rkuo2000/Arduino/tree/master/examples/Robots/Esp32Copter) 
+![](https://github.com/rkuo2000/Arduino/blob/master/examples/Robots/Esp32Copter/DSC02364.jpg?raw=true)
 
 ---
 ## [Ardupilot](https://ardupilot.org/)
@@ -233,24 +207,6 @@ float Kalman::getAngle(float newAngle, float newRate, float dt) {
 
 ### Mission Planner Ground Control Station
 ![](https://ardupilot.org/planner/_images/mp_hud_full.jpg)
-
-**view of HUD**
-![](https://ardupilot.org/planner/_images/mp_hud_detail.jpg)
-1. Air speed ( Ground speed if no airspeed sensor is fitted )
-2. Crosstrack error and turn rate (T)
-3. Heading direction
-4. Bank angle
-5. Telemetry connection link quality (averaged percentage of good packets)
-6. GPS time
-7. Altitude ( blue bar is rate of climb )
-8. Air speed
-9. Ground speed
-10. Battery status
-11. Artificial Horizon
-12. Aircraft Attitude
-13. GPS Status
-14. Distance to Waypoint > Current Waypoint Number
-15. Current Flight Mode
 
 <br>
 <br>
