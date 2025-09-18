@@ -190,7 +190,7 @@ float Kalman::getAngle(float newAngle, float newRate, float dt) {
 
 ---
 ## MPU9250
-### [Sketchbook>MPU9250_DMP_Teapot](https://github.com/rkuo2000/Arduino/tree/master/examples/IMU/MPU9250_DMP_Teapot)
+### [MPU9250_DMP_Teapot](https://github.com/rkuo2000/Arduino/tree/master/examples/IMU/MPU9250_DMP_Teapot)
 * click MPU9250Teapot/MPU9250Teapot.pde
 
 ---
