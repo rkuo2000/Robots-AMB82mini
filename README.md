@@ -28,10 +28,21 @@ Pass: 035623116
 ## 5. Naviation
 ### [IMU](https://github.com/rkuo2000/Robots/blob/main/IMU.md)
 
-### [Ardupilot](https://ardupilot.org/)
+---
+## 6. Text-To-Speech (TTS)
 
-#### [Github](https://github.com/ArduPilot/ardupilot/)
+### PAM8403 
+AMB82-mini **Aout** pin connect to PAM8403 channel left/right
+![](https://temperosystems.com.au/wp-content/uploads/2021/09/PAM8403-Pinout-600x400.jpg)
 
-#### Mission Planner Ground Control Station
+### GenAISpeech
+#### [Examples > AmebaNN > MultimediaAI > [Generative AI Speech](https://ameba-doc-arduino-sdk.readthedocs-hosted.com/en/latest/ameba_pro2/amb82-mini/Example_Guides/Neural%20Network/Multimedia%20AI/Generative%20AI%20Speech.html)
+
+---
+## [Ardupilot](https://ardupilot.org/)
+
+### [Github](https://github.com/ArduPilot/ardupilot/)
+
+### Mission Planner Ground Control Station
 <p><img width="50%" height="50%" src="https://ardupilot.org/planner/_images/mp_hud_full.jpg"></p>
 
