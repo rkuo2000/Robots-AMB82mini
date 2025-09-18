@@ -10,7 +10,7 @@
 ---
 ### [OpenVLA](https://github.com/openvla/openvla)
 
-"""
+```
 # Install minimal dependencies (`torch`, `transformers`, `timm`, `tokenizers`, ...)
 # > pip install -r https://raw.githubusercontent.com/openvla/openvla/main/requirements-min.txt
 from transformers import AutoModelForVision2Seq, AutoProcessor
@@ -38,7 +38,8 @@ action = vla.predict_action(**inputs, unnorm_key="bridge_orig", do_sample=False)
 
 # Execute...
 robot.act(action, ...)
-"""
+```
+
 ---
 #### [Open X-Embodiment](https://github.com/google-deepmind/open_x_embodiment)
 **Arxiv**: [Open X-Embodiment: Robotic Learning Datasets and RT-X Models](https://arxiv.org/html/2310.08864v9)<br>
