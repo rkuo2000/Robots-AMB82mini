@@ -199,7 +199,7 @@ float Kalman::getAngle(float newAngle, float newRate, float dt) {
 
 ---
 ### [Esp32Copter](https://github.com/rkuo2000/Arduino/tree/master/examples/Robots/Esp32Copter) 
-![](https://github.com/rkuo2000/Arduino/blob/master/examples/Robots/Esp32Copter/DSC02364.jpg?raw=true)
+<p><img width="50%" height="50%" src="https://github.com/rkuo2000/Arduino/blob/master/examples/Robots/Esp32Copter/DSC02364.jpg?raw=true"></p>
 
 ---
 ## [Ardupilot](https://ardupilot.org/)
