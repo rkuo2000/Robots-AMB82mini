@@ -206,7 +206,7 @@ float Kalman::getAngle(float newAngle, float newRate, float dt) {
 **[Github](https://github.com/ArduPilot/ardupilot/)**
 
 ### Mission Planner Ground Control Station
-![](https://ardupilot.org/planner/_images/mp_hud_full.jpg)
+<p><img width="50%" height="50%" src="https://ardupilot.org/planner/_images/mp_hud_full.jpg"></p>
 
 <br>
 <br>
