@@ -31,10 +31,11 @@ Pass: 035623116
 ---
 ## 6. Vision
 
-### Object Detection
+### Object Detection (YOLOv7)
 #### Examples > AmebaNN > [Ojbect Detection Loop](https://ameba-doc-arduino-sdk.readthedocs-hosted.com/en/latest/ameba_pro2/amb82-mini/Example_Guides/Neural%20Network/Object%20Detection.html)
 
-### Generative AI Vision
+---
+### Generative AI Vision 
 #### Examples > AmebaNN > MultimediaAI > [Generative AI Vision]()
 
 ---
