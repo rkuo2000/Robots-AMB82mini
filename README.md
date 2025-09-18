@@ -29,14 +29,43 @@ Pass: 035623116
 ### [IMU](https://github.com/rkuo2000/Robots/blob/main/IMU.md)
 
 ---
-## 6. Text-To-Speech (TTS)
+## 6. Vision
+
+### [Object Detection](https://ameba-doc-arduino-sdk.readthedocs-hosted.com/en/latest/ameba_pro2/amb82-mini/Example_Guides/Neural%20Network/Object%20Detection.html)
+#### [Examples > AmebaNN > Ojbect Detection Loop](https://ameba-doc-arduino-sdk.readthedocs-hosted.com/en/latest/ameba_pro2/amb82-mini/Example_Guides/Neural%20Network/Object%20Detection.html)
+
+### Generative AI
+#### [Examples > AmebaNN > MultimediaAI > Generative AI Vision](https://ameba-doc-arduino-sdk.readthedocs-hosted.com/en/latest/ameba_pro2/amb82-mini/Example_Guides/Neural%20Network/Multimedia%20AI/Generative%20AI%20Vision.html
+)
+
+---
+## 7. Mic & Audio
+
+### Audio Classification
+#### [Examples > AmebaNN > Audio Classification](https://ameba-doc-arduino-sdk.readthedocs-hosted.com/en/latest/ameba_pro2/amb82-mini/Example_Guides/Neural%20Network/Audio%20Classification.html)
+
+#### [Examples > AmebaNN > Multimedia AI > GenAISpeech_Whisper](https://ameba-doc-arduino-sdk.readthedocs-hosted.com/en/latest/ameba_pro2/amb82-mini/Example_Guides/Neural%20Network/Multimedia%20AI/Generative%20AI%20Speech.html)
+
+---
+## 8. Text-To-Speech (TTS)
 
 ### PAM8403 
 AMB82-mini **Aout** pin connect to PAM8403 channel left/right
 ![](https://github.com/rkuo2000/Robots/blob/main/assets/PAM8403.png?raw=true)
 
 ### GenAISpeech
-#### [Examples > AmebaNN > MultimediaAI > [Generative AI Speech](https://ameba-doc-arduino-sdk.readthedocs-hosted.com/en/latest/ameba_pro2/amb82-mini/Example_Guides/Neural%20Network/Multimedia%20AI/Generative%20AI%20Speech.html)
+#### Examples > AmebaNN > MultimediaAI > [Generative AI Speech](https://ameba-doc-arduino-sdk.readthedocs-hosted.com/en/latest/ameba_pro2/amb82-mini/Example_Guides/Neural%20Network/Multimedia%20AI/Generative%20AI%20Speech.html)
+
+---
+## 9. RoboCar
+
+### AMB82-mini + DRV8833
+#### Sketchbook > AMB82-mini > [RoboCar_DRV8833](https://github.com/rkuo2000/Robots/blob/main/AMB82-mini/RoboCar_DRV8833_PWM/RoboCar_DRV8833_PWM.ino)
+
+#### Sketchbook > AMB82-mini > [RoboCar_MQTT](https://github.com/rkuo2000/Robots/blob/main/AMB82-mini/RoboCar_DRV8833_PWM/RoboCar_DRV8833_MQTT.ino)
+
+---
+## 10. 
 
 ---
 ## [Ardupilot](https://ardupilot.org/)
