@@ -1,29 +1,6 @@
 
-## MCU 基本功能練習
+## Wireless Communication
 
-### [MCU Interfaces](https://github.com/rkuo2000/EdgeAI-AMB82mini/blob/main/MCU_interfaces.md)
-
----
-### Basic I/O 範例練習
-**Examples> 01.Basics > Blink**<br>
-  
-![](https://github.com/rkuo2000/EdgeAI-AMB82mini/blob/main/assets/AMB82-mini_Arduino_examples_01.Basics_Blink.png?raw=true)
-    
-**Examples> 02.Digitial > GPIO > Button**<br>
-  
-![](https://github.com/rkuo2000/EdgeAI-AMB82mini/blob/main/assets/AMB82-mini_Arduino_examples_02.Digital_Button.png?raw=true)
-
-程式碼修改：<br>
-const int buttonPin = `1`;  // the number of the pushbutton pin<br>
-const int ledPin = `LED_BUILTIN`;    // the number of the LED pin<br>
-
-**Examples> 01.Basic > AnalogReadSerial**<br>
-
-![](https://github.com/rkuo2000/EdgeAI-AMB82mini/blob/main/assets/AMB82-mini_Arduino_examples_01.Basics_AnalogReadSerial.png?raw=true)
-
-程式碼修改：Serial.begin(`115200`);<br>
-
----
 ### WiFi
 **Examples> WiFi > SimpleTCPServer**<br>
 [WiFi - Simple TCP Server](https://www.amebaiot.com/en/amebapro2-arduino-server-client/)<br>
@@ -45,8 +22,7 @@ const int ledPin = `LED_BUILTIN`;    // the number of the LED pin<br>
 
 [BLE V7RC](https://www.amebaiot.com/zh/amebad-arduino-ble-v7rc/)<br>
 
-* V7RC 用 BLE 傳輸時，需要設備廣播通用的 UART SERVICE UUID，連接後會直接在 RX Characteristic 採用 write without response(write command) 的方式持續送資料
-* ParseCMDString(String cmd) is a customized function will take a string “cmd” as input and process it. Currently, there are 6 available commands from V7RC App, which are: “SS2”,”SS4”,”SRT”,”SR2”, and “SRV”.
+ParseCMDString(String cmd) is a customized function will take a string “cmd” as input and process it. Currently, there are 6 available commands from V7RC App, which are: “SS2”,”SS4”,”SRT”,”SR2”, and “SRV”.<br>
 
 * [V7RC APP 介紹](https://hackmd.io/@accomdemy/v7rc)<br>
 * 安裝[手機App V7RC](https://play.google.com/store/apps/details?id=com.v7idea.v7rcliteandroidsdkversion&hl=en)<br>
