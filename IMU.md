@@ -89,8 +89,9 @@ No-motion observed noise was +- 0.015 rad/s (±0.86 deg/sec) at 1.1KHz. Check th
 ![](https://github.com/rkuo2000/MCU-course/blob/main/images/XYZ-YPR-Euler.png?raw=true)
 
 ---
-### InvenSense MPU6050 & MPU9250
-* **MPU6050**<br>
+## InvenSense IMU
+
+### MPU6050
 [MPU-6000 and MPU-6050 Product Specification Revision 3.4](https://invensense.tdk.com/wp-content/uploads/2015/02/MPU-6000-Datasheet1.pdf)<br>
 [MPU-6000 and MPU-6050 Register Map and Descriptions Revision 4.2](https://invensense.tdk.com/wp-content/uploads/2015/02/MPU-6000-Register-Map1.pdf)<br>
 ![](https://github.com/rkuo2000/MCU-course/blob/main/images/MPU6050.jpeg?raw=true)
@@ -100,12 +101,11 @@ No-motion observed noise was +- 0.015 rad/s (±0.86 deg/sec) at 1.1KHz. Check th
 ![](https://github.com/rkuo2000/MCU-course/blob/main/images/BNO080.png?raw=true)
 
 ---
-### Arduino Library: MPU6050
+### Library: [MPU6050](https://github.com/ElectronicCats/mpu6050)
 
 #### Download [Processing](https://processing.org/download) & Install
   - Tools> add Tool> Library> Toxi
 
----
 #### Sketchbook> IMU> MPU6050_DMP_Teapot
 ![](https://github.com/rkuo2000/MCU-course/blob/main/images/Sketch_MPU6050_DMP_Teapot.png?raw=true)
 * click ./MPU6050Teapot/MPU6050Teapot.pde
