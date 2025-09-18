@@ -33,7 +33,7 @@ Pass: 035623116
 
 ### PAM8403 
 AMB82-mini **Aout** pin connect to PAM8403 channel left/right
-![](https://temperosystems.com.au/wp-content/uploads/2021/09/PAM8403-Pinout-600x400.jpg)
+![](https://github.com/rkuo2000/Robots/blob/main/assets/PAM8403.png?raw=true)
 
 ### GenAISpeech
 #### [Examples > AmebaNN > MultimediaAI > [Generative AI Speech](https://ameba-doc-arduino-sdk.readthedocs-hosted.com/en/latest/ameba_pro2/amb82-mini/Example_Guides/Neural%20Network/Multimedia%20AI/Generative%20AI%20Speech.html)
