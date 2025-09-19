@@ -59,7 +59,7 @@ AMB82-mini **Aout** pin connect to PAM8403 channel left/right<br>
 
 ---
 ## 9. RoboCar
-![](https://github.com/rkuo2000/Robots-AMB82mini/blob/main/assets/RoboCar-AMB82mini.jpg?raw=true)
+<img width="25%" height="25%" src="https://github.com/rkuo2000/Robots-AMB82mini/blob/main/assets/RoboCar-AMB82mini.jpg?raw=true">
 
 ### AMB82-mini + DRV8833
 #### Sketchbook > AMB82-mini > [RoboCar_DRV8833](https://github.com/rkuo2000/Robots/blob/main/AMB82-mini/RoboCar_DRV8833_PWM/RoboCar_DRV8833_PWM.ino)
