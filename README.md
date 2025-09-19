@@ -51,7 +51,7 @@ Pass: 035623116
 ## 8. Text-To-Speech (TTS)
 
 ### PAM8403 
-AMB82-mini **Aout** pin connect to PAM8403 channel left/right
+AMB82-mini **Aout** pin connect to PAM8403 channel left/right<br>
 <p><img width="25%" height="25%" src="https://github.com/rkuo2000/Robots/blob/main/assets/PAM8403.png?raw=true"></p>
 
 ### GenAISpeech
@@ -80,7 +80,7 @@ AMB82-mini **Aout** pin connect to PAM8403 channel left/right
 ![](https://arxiv.org/html/2309.11989v2/extracted/5625956/pic/overall.png)
 
 #### [An Algorithm for Affordable Vision-Based GNSS-Denied Strapdown Celestial Navigation](https://www.mdpi.com/2504-446X/8/11/652)
-<img width="50%" height="50%" src="https://www.mdpi.com/drones/drones-08-00652/article_deploy/html/images/drones-08-00652-g004-550.jpg">
+<p><img width="25%" height="25%" src="https://www.mdpi.com/drones/drones-08-00652/article_deploy/html/images/drones-08-00652-g004-550.jpg"></p>
 
 ---
 ## 10. [VLA](https://github.com/rkuo2000/Robots/blob/main/VLA.md)
