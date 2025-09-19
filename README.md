@@ -28,6 +28,8 @@ Pass: 035623116
 ## 5. Naviation
 ### [IMU](https://github.com/rkuo2000/Robots/blob/main/IMU.md)
 
+### [VINS](https://rkuo2000.github.io/AI-course/lecture/2025/09/11/VINS.html)
+
 ---
 ## 6. Vision
 
@@ -63,6 +65,7 @@ AMB82-mini **Aout** pin connect to PAM8403 channel left/right
 #### Sketchbook > AMB82-mini > [RoboCar_DRV8833](https://github.com/rkuo2000/Robots/blob/main/AMB82-mini/RoboCar_DRV8833_PWM/RoboCar_DRV8833_PWM.ino)
 
 #### Sketchbook > AMB82-mini > [RoboCar_MQTT](https://github.com/rkuo2000/Robots/blob/main/AMB82-mini/RoboCar_DRV8833_PWM/RoboCar_DRV8833_MQTT.ino)
+
 
 ---
 ## 10. [VLA](https://github.com/rkuo2000/Robots/blob/main/VLA.md)
