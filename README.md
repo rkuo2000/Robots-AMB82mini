@@ -27,10 +27,7 @@ Pass: 035623116
 
 ## 4. [Motor Control](https://github.com/rkuo2000/Robots/blob/main/PWM.md)
 
-## 5. Naviation
-### [IMU](https://github.com/rkuo2000/Robots/blob/main/IMU.md)
-
-
+## 5. [IMU](https://github.com/rkuo2000/Robots/blob/main/IMU.md)
 
 ---
 ## 6. Vision
@@ -83,7 +80,7 @@ AMB82-mini **Aout** pin connect to PAM8403 channel left/right
 ![](https://arxiv.org/html/2309.11989v2/extracted/5625956/pic/overall.png)
 
 #### [An Algorithm for Affordable Vision-Based GNSS-Denied Strapdown Celestial Navigation](https://www.mdpi.com/2504-446X/8/11/652)
-![](https://www.mdpi.com/drones/drones-08-00652/article_deploy/html/images/drones-08-00652-g004-550.jpg)
+<img width="50%" height="50%" src="https://www.mdpi.com/drones/drones-08-00652/article_deploy/html/images/drones-08-00652-g004-550.jpg">
 
 ---
 ## 10. [VLA](https://github.com/rkuo2000/Robots/blob/main/VLA.md)
