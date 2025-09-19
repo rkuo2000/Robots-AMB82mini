@@ -30,7 +30,7 @@ Pass: 035623116
 ## 5. Naviation
 ### [IMU](https://github.com/rkuo2000/Robots/blob/main/IMU.md)
 
-### [VINS](https://rkuo2000.github.io/AI-course/lecture/2025/09/11/VINS.html)
+
 
 ---
 ## 6. Vision
@@ -68,6 +68,22 @@ AMB82-mini **Aout** pin connect to PAM8403 channel left/right
 
 #### Sketchbook > AMB82-mini > [RoboCar_MQTT](https://github.com/rkuo2000/Robots/blob/main/AMB82-mini/RoboCar_DRV8833_PWM/RoboCar_DRV8833_MQTT.ino)
 
+---
+## 10. Navigation
+
+### [VINS](https://rkuo2000.github.io/AI-course/lecture/2025/09/11/VINS.html)<br>
+
+### [VINS-Mono: A Robust and Versatile Monocular Visual-Inertial State Estimator](https://arxiv.org/abs/1708.03852)
+**Github**: [VINS-Mono](https://github.com/HKUST-Aerial-Robotics/VINS-Mono)<br>
+
+---
+### Vision-based Navigation
+
+#### [A Vision-Based Navigation System for Arable Fields](https://arxiv.org/html/2309.11989v2)<br>
+![](https://arxiv.org/html/2309.11989v2/extracted/5625956/pic/overall.png)
+
+#### [An Algorithm for Affordable Vision-Based GNSS-Denied Strapdown Celestial Navigation](https://www.mdpi.com/2504-446X/8/11/652)
+![](https://www.mdpi.com/drones/drones-08-00652/article_deploy/html/images/drones-08-00652-g004-550.jpg)
 
 ---
 ## 10. [VLA](https://github.com/rkuo2000/Robots/blob/main/VLA.md)
@@ -85,4 +101,5 @@ AMB82-mini **Aout** pin connect to PAM8403 channel left/right
 
 ### Mission Planner Ground Control Station
 <p><img width="50%" height="50%" src="https://ardupilot.org/planner/_images/mp_hud_full.jpg"></p>
+
 
