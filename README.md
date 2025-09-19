@@ -72,7 +72,7 @@ AMB82-mini **Aout** pin connect to PAM8403 channel left/right
 
 ### [SO-101 robot](https://huggingface.co/docs/lerobot/en/so101)
 #### [SO-ARM101 AI 機器手臂PRO套件 for LeRobot](https://www.icshop.com.tw/products/368040500233)
-![](https://shoplineimg.com/6486dbe2afaddb00694ea79f/686c83dbdae506001031a682/800x.webp?source_format=jpg)
+<p><img width="50%" height="50%" src="https://shoplineimg.com/6486dbe2afaddb00694ea79f/686c83dbdae506001031a682/800x.webp?source_format=jpg?"></p>
 
 [![](https://markdown-videos-api.jorgenkh.no/youtube/LxluHcx0BUA)](https://youtu.be/LxluHcx0BUA)
 
