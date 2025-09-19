@@ -79,6 +79,7 @@ AMB82-mini **Aout** pin connect to PAM8403 channel left/right<br>
 #### [A Vision-Based Navigation System for Arable Fields](https://arxiv.org/html/2309.11989v2)<br>
 ![](https://arxiv.org/html/2309.11989v2/extracted/5625956/pic/overall.png)
 
+---
 #### [An Algorithm for Affordable Vision-Based GNSS-Denied Strapdown Celestial Navigation](https://www.mdpi.com/2504-446X/8/11/652)
 <p><img width="25%" height="25%" src="https://www.mdpi.com/drones/drones-08-00652/article_deploy/html/images/drones-08-00652-g004-550.jpg">
 <img width="25%" height="25%" src="https://www.mdpi.com/drones/drones-08-00652/article_deploy/html/images/drones-08-00652-g007-550.jpg"></p>
