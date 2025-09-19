@@ -1,12 +1,9 @@
-# Robots
-自強基金會 WiFi <br>
-```
-SSID: TCFSTWIFI.ALL
-Pass: 035623116
-```
+# Robots-AMB82mini
+
+## 0. [AI 簡介](https://rkuo2000.github.io/AI-course/lecture/2025/09/01/AI-Brief.html)
+### [AI 硬體介紹](https://rkuo2000.github.io/AI-course/lecture/2025/09/01/AI-Hardwares.html)
 
 ## 1. [EdgeAI-MCU 開發板](https://github.com/rkuo2000/Robots/blob/main/MCU.md)
-
 <p>
 <img width="25%" height="25%" src="https://github.com/rkuo2000/EdgeAI-AMB82mini/blob/main/assets/AMB82-mini.png?raw=true">
 <img width="25%" height="25%" src="https://robotkingdom.com.tw/wp-content/uploads/2024/09/HUB_8735_Ultra-4-510x680.jpg">
@@ -20,6 +17,11 @@ Pass: 035623116
 ### [BasicIO_UART](https://github.com/rkuo2000/Robots/blob/main/BasicIO_UART.md)
 
 ### [WiFi_BLE](https://github.com/rkuo2000/Robots/blob/main/WiFi_BLE.md)
+自強基金會 WiFi <br>
+```
+SSID: TCFSTWIFI.ALL
+Pass: 035623116
+```
 
 ### [MQTT](https://github.com/rkuo2000/Robots/blob/main/MQTT.md)
 
