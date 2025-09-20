@@ -11,8 +11,8 @@
 **Examples> WiFi > SimpleHttpWeb > ControlLED**<br>
 [WiFi - Simple Http Server to Control LED](https://www.amebaiot.com/en/amebapro2-arduino-ameba-web-server/)<br>
 
-**Sketchbook> AMB82-mini > WebServer_ControlLED**<br>
-[Sketchbook> WebServer_ControlLED](https://github.com/rkuo2000/EdgeAI-AMB82mini/blob/main/Arduino/AMB82-mini/WebServer_ControlLED/WebServer_ControlLED.ino)<br>
+**Sketchbook> AMB82-mini > HTTPServer_ControlLED**<br>
+[Sketchbook> HTTPServer_ControlLED](https://github.com/rkuo2000/Robots-AMB82mini/blob/main/AMB82-mini/HTTPServer_ControlLED/HTTPServer_ControlLED.ino)<br>
 ![](https://github.com/rkuo2000/EdgeAI-AMB82mini/blob/main/assets/AMB82-mini_Arduino_Sketch_WebServer_ControlLED.png?raw=true)
 
 ---
