@@ -112,7 +112,7 @@ No-motion observed noise was +- 0.015 rad/s (±0.86 deg/sec) at 1.1KHz. Check th
 * modify port name: `String portName = "COM3";`
 * press Run
 
-#### Examples > AmebaWire > MPU6050 > MPU6050_DMP6_using_DMP_V6v12
+#### Examples > AmebaWire > MPU6050 > [MPU6050_DMP6_using_DMP_V6v12](https://github.com/rkuo2000/Robots-AMB82mini/blob/main/AMB82-mini/MPU6050_DMP6v12/MPU6050_DMP6v12.ino)
 
 ---
 ### Complementary Filter
