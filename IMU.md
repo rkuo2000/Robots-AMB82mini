@@ -91,6 +91,8 @@ No-motion observed noise was +- 0.015 rad/s (±0.86 deg/sec) at 1.1KHz. Check th
 ---
 ## InvenSense IMU
 
+![](https://raw.githubusercontent.com/rkuo2000/EdgeAI-AMB82mini/refs/heads/main/assets/MPU6050.png)
+
 ### MPU6050
 [MPU-6000 and MPU-6050 Product Specification Revision 3.4](https://invensense.tdk.com/wp-content/uploads/2015/02/MPU-6000-Datasheet1.pdf)<br>
 [MPU-6000 and MPU-6050 Register Map and Descriptions Revision 4.2](https://invensense.tdk.com/wp-content/uploads/2015/02/MPU-6000-Register-Map1.pdf)<br>
