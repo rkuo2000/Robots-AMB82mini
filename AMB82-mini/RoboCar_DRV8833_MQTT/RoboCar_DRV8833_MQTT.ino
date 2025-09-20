@@ -12,7 +12,7 @@ char mqttServer[] = "test.mosquitto.org";
 char clientId[] = "amebaClient";
 char publishTopic[] = "outTopic";
 char publishPayload[] = "hello world";
-char subscribeTopic[] = "TCFST/ROBOT1";
+char subscribeTopic[] = "TCFST/Robot1";
 
 // nSLEEP pin connected to Vcc
 // nFAULT pin kept floating
