@@ -69,12 +69,6 @@ AMB82-mini **Aout** pin connect to PAM8403 channel left/right<br>
 ---
 ## 10. Navigation
 
-### [VINS](https://rkuo2000.github.io/AI-course/lecture/2025/09/11/VINS.html)<br>
-
-### [VINS-Mono: A Robust and Versatile Monocular Visual-Inertial State Estimator](https://arxiv.org/abs/1708.03852)
-**Github**: [VINS-Mono](https://github.com/HKUST-Aerial-Robotics/VINS-Mono)<br>
-
----
 ### Vision-based Navigation
 
 #### [A Vision-Based Navigation System for Arable Fields](https://arxiv.org/html/2309.11989v2)<br>
