@@ -34,7 +34,7 @@ VideoSetting config(768, 768, CAM_FPS, VIDEO_JPEG, 1);
 uint32_t img_addr = 0;
 uint32_t img_len = 0;
 
-String prompt_msg = "Please describe the image, and if there is a text, please summarize the content";
+String prompt_msg = "what is the name of this place in one word?";
 
 const int buttonPin = 1;          // the number of the pushbutton pin
 
