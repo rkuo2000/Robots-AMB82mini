@@ -86,9 +86,9 @@ AMB82-mini **Aout** pin connect to PAM8403 channel left/right<br>
 #### [SO-ARM101 AI 機器手臂PRO套件 for LeRobot](https://www.icshop.com.tw/products/368040500233)
 <p><img width="25%" height="25%" src="https://shoplineimg.com/6486dbe2afaddb00694ea79f/686c83dbdae506001031a682/800x.webp?source_format=jpg?"></p>
 
-[![](https://markdown-videos-api.jorgenkh.no/youtube/sD34HnAkGNc)(https://youtu.be/sD34HnAkGNc)]
+[![](https://markdown-videos-api.jorgenkh.no/youtube/sD34HnAkGNc)](https://youtu.be/sD34HnAkGNc)
 
-[![](https://markdown-videos-api.jorgenkh.no/youtube/-tkEMLOLEwo)(https://youtu.be/-tkEMLOLEwo)]
+[![](https://markdown-videos-api.jorgenkh.no/youtube/-tkEMLOLEwo)](https://youtu.be/-tkEMLOLEwo)
 
 ---
 ## 11. [Ardupilot](https://ardupilot.org/)
