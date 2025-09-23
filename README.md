@@ -37,7 +37,7 @@ Pass: 035623116
 
 ---
 ### Generative AI Vision 
-#### Examples > AmebaNN > MultimediaAI > [Generative AI Vision]()
+#### Examples > AmebaNN > MultimediaAI > [Generative AI Vision](https://github.com/rkuo2000/Robots-AMB82mini/blob/main/AMB82-mini/GenAIVision/GenAIVision.ino)
 
 ---
 ## 7. Mic & Audio
